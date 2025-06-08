@@ -13,7 +13,7 @@ Elle permet aux membres de l'administration (directeurs, enseignants, secrétair
 - Visualiser les revenus et dépenses (mensuels / journaliers) sous forme de **graphiques**.
 - Travailler en synergie grâce à une **base de données centralisée** (Laravel) qui relie les différents utilisateurs selon leur rôle.
 
-📸 Des captures d’écran en **français** sont disponibles dans le dossier [`screenshots`](./screenshots).
+📸 Des captures d’écran en **français** sont disponibles dans le dossier [`screenshots`](./screen shots).
 
 🔐 Chaque utilisateur possède des **droits d'accès spécifiques** selon son rôle :
 - Enseignant
@@ -39,7 +39,7 @@ It helps administrative staff (directors, teachers, secretaries) to:
 - Visualize **monthly and daily** income and expenses using **graphs**.
 - Collaborate effectively through a **centralized Laravel database** that links users based on their roles.
 
-📸 The **screenshots** (in **French**) are available in the [`screenshots`](./screenshots) folder.
+📸 The **screenshots** (in **French**) are available in the [`screenshots`](./screen shots) folder.
 
 🔐 Each user has **custom permissions** according to their role:
 - Teacher
@@ -54,7 +54,7 @@ It helps administrative staff (directors, teachers, secretaries) to:
 
 ## 📂 Dossier à consulter / Folder to check
 
-- [`screenshots`](./screenshots) — Captures d’écrans de l’application / App screenshots
+- [`screenshots`](./screen shots) — Captures d’écrans de l’application / App screenshots
 
 ---
 
