@@ -1,0 +1,19 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\split.scale-400.pri"			"resources.pri"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\SnapPackageLogo.scale-400.png"			"Images\SnapPackageLogo.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\SnapCouleurIcon.scale-400.png"			"Images\SnapCouleurIcon.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\SnapCouleurCarré.scale-400.png"			"Images\SnapCouleurCarré.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\SnapCouleur.scale-400.png"			"Images\SnapCouleur.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\Snap.scale-400.png"			"Images\Snap.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\LogoSnap.scale-400.png"			"Images\LogoSnap.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Images\logoSnap-01.scale-400.png"			"Images\logoSnap-01.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Assets\WideTile.scale-400.png"			"Assets\WideTile.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Assets\SnapMoyen.scale-400.png"			"Assets\SnapMoyen.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Assets\SnapCouleur.scale-400.png"			"Assets\SnapCouleur.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Assets\Snap.scale-400.png"			"Assets\Snap.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Assets\SmallTile.scale-400.png"			"Assets\SmallTile.scale-400.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\PackageLayout\Assets\LogoSnap.scale-400.png"			"Assets\LogoSnap.scale-400.png"

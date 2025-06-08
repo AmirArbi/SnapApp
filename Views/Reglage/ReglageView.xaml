@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="SDKTemplate.Views.Reglage.ReglageView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate.Views.Reglage"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Margin="50">
+            <TextBlock Text="Paramettre :" FontSize="25" Style="{StaticResource HeaderTextBlockStyle}"></TextBlock>
+            <TextBlock Text="Changer le mot de passe de l'administration :" FontSize="25" Style="{StaticResource CopyrightTextStyle}" Margin="20,10,20,10"></TextBlock>
+            <PasswordBox  Margin="30,20,30,20" HorizontalAlignment="Left" x:Name="OldPassword" Grid.Row="1"  VerticalAlignment="Center" Width="450" Height="40" FontSize="20" PlaceholderText="Mot de passe actuel"/>
+            <StackPanel Orientation="Horizontal">
+                <PasswordBox  Margin="30,20,30,20" x:Name="Password" HorizontalAlignment="Center" Grid.Row="1"  VerticalAlignment="Center" Width="450" Height="40" FontSize="20" PlaceholderText="Nouveau mot de passe"/>
+                <Button Name="ConfirmAdm" Click="Button_Click" Margin="0,10,0,10" Height="40" Style="{StaticResource AccentButtonStyle}">
+                    <TextBlock Text="Confirmer"></TextBlock>
+                </Button>
+                <PasswordBox Visibility="Collapsed" Margin="30,20,30,20" x:Name="ConfirmPassword" HorizontalAlignment="Center" Grid.Row="1"  VerticalAlignment="Center" Width="450" Height="40" FontSize="20" PlaceholderText="Confirmer le mot de passee"/>
+                <Button x:Name="ContinuAdmButton" Click="Button_Click_1"  Visibility="Collapsed"  Margin="0,10,0,10" Height="40" Style="{StaticResource AccentButtonStyle}">
+                    <TextBlock Text="Continuer"></TextBlock>
+                </Button>
+            </StackPanel>
+            <TextBlock x:Name="AdministrationPassowrdStatue" Visibility="Collapsed" Text="votre mot de passe est bien changé" FontSize="15" Style="{StaticResource BaseTextBlockStyle}" HorizontalAlignment="Center"></TextBlock>
+            <TextBlock Text="Changer le mot de passe de la directrice :" FontSize="25" Style="{StaticResource CopyrightTextStyle}" Margin="20,10,20,10"></TextBlock>
+            <PasswordBox  Margin="30,20,30,20" HorizontalAlignment="Left" x:Name="OldPasswordDir" Grid.Row="1"  VerticalAlignment="Center" Width="450" Height="40" FontSize="20" PlaceholderText="Mot de passe actuel"/>
+            <StackPanel Orientation="Horizontal">
+                <PasswordBox Margin="30,20,30,20" x:Name="DirectorPassword" HorizontalAlignment="Center" Grid.Row="1"  VerticalAlignment="Center" Width="450" Height="40" FontSize="20" PlaceholderText="Entrer le mot de passe"/>
+                <Button Name="ConfirmDir"  Click="Button_Click" Margin="0,10,0,10" Height="40" Style="{StaticResource AccentButtonStyle}">
+                    <TextBlock Text="Confirmer"></TextBlock>
+                </Button>
+                <PasswordBox Visibility="Collapsed" Margin="30,20,30,20" x:Name="DirectorConfirmPassword" HorizontalAlignment="Center" Grid.Row="1"  VerticalAlignment="Center" Width="450" Height="40" FontSize="20" PlaceholderText="Confirmer le mot de passee"/>
+                <Button x:Name="ContinueDirButton" Click="Button_Click_1" Visibility="Collapsed"  Margin="0,10,0,10" Height="40" Style="{StaticResource AccentButtonStyle}">
+                    <TextBlock Text="Continuer"></TextBlock>
+                </Button>
+            </StackPanel>
+            <TextBlock x:Name="DirectorPassowrdStatue" Visibility="Collapsed" Text="votre mot de passe est bien changé" FontSize="15" Style="{StaticResource BaseTextBlockStyle}" HorizontalAlignment="Center"></TextBlock>
+        </StackPanel> 
+    </Grid>
+</Page>

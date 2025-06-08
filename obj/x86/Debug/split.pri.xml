@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.SDKSamples.PrintSample.CS" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PrintSample.xr.xml" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/PrintSample.xr.xml">
+				<Candidate type="Path">
+					<Value>PrintSample.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="smalltile-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/smalltile-sdk.png">
+				<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+					<Value>smalltile-sdk.scale-200.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="splash-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/splash-sdk.png">
+				<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+					<Value>splash-sdk.scale-200.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="squaretile-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/squaretile-sdk.png">
+				<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+					<Value>squaretile-sdk.scale-200.png</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LogoSnap.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/LogoSnap.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LogoSnap.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="microsoft-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/microsoft-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\microsoft-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="moderateMargins.svg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/moderateMargins.svg">
+					<Candidate type="Path">
+						<Value>Assets\moderateMargins.svg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="narrowMargins.svg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/narrowMargins.svg">
+					<Candidate type="Path">
+						<Value>Assets\narrowMargins.svg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photo1.jpg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/photo1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\photo1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photo2.jpg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/photo2.jpg">
+					<Candidate type="Path">
+						<Value>Assets\photo2.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photo3.jpg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/photo3.jpg">
+					<Candidate type="Path">
+						<Value>Assets\photo3.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photo4.jpg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/photo4.jpg">
+					<Candidate type="Path">
+						<Value>Assets\photo4.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photo5.jpg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/photo5.jpg">
+					<Candidate type="Path">
+						<Value>Assets\photo5.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="photo6.jpg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/photo6.jpg">
+					<Candidate type="Path">
+						<Value>Assets\photo6.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="print_1.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/print_1.png">
+					<Candidate type="Path">
+						<Value>Assets\print_1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/SmallTile-sdk.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile-sdk.scale-200.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\smallTile-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Snap.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/Snap.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Snap.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SnapCouleur.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/SnapCouleur.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-lightunplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\SnapCouleur.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-lightunplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\SnapCouleur.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-lightunplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\SnapCouleur.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-unplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-lightunplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\SnapCouleur.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\SnapCouleur.altform-lightunplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\SnapCouleur.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SnapCouleur.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SnapCouleurGrandVignette.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/SnapCouleurGrandVignette.png"/>
+				<NamedResource name="SnapMoyen.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/SnapMoyen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SnapMoyen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Splash-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/Splash-sdk.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Splash-sdk.scale-200.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\splash-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SquareTile-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/SquareTile-sdk.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SquareTile-sdk.scale-200.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Assets\squareTile-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/StoreLogo-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\storeLogo-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tile-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/tile-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\tile-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wideMargins.svg" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/wideMargins.svg">
+					<Candidate type="Path">
+						<Value>Assets\wideMargins.svg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideTile.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/WideTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\WideTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="windows-sdk.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Assets/windows-sdk.png">
+					<Candidate type="Path">
+						<Value>Assets\windows-sdk.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Fonts">
+				<NamedResource name="Montserrat-Black.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Black.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Black.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-BlackItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-BlackItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-BlackItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-Bold.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Bold.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Bold.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-BoldItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-BoldItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-BoldItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-ExtraBold.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-ExtraBold.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-ExtraBold.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-ExtraBoldItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-ExtraBoldItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-ExtraBoldItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-ExtraLight.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-ExtraLight.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-ExtraLight.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-ExtraLightItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-ExtraLightItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-ExtraLightItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-Italic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Italic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Italic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-Light.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Light.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Light.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-LightItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-LightItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-LightItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-Medium.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Medium.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Medium.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-MediumItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-MediumItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-MediumItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-Regular.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Regular.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Regular.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-SemiBold.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-SemiBold.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-SemiBold.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-SemiBoldItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-SemiBoldItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-SemiBoldItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-Thin.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-Thin.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-Thin.ttf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Montserrat-ThinItalic.ttf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Fonts/Montserrat-ThinItalic.ttf">
+					<Candidate type="Path">
+						<Value>Fonts\Montserrat-ThinItalic.ttf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="about.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/about.png">
+					<Candidate type="Path">
+						<Value>Images\about.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="back-to-school-512.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/back-to-school-512.png">
+					<Candidate type="Path">
+						<Value>Images\back-to-school-512.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Boy.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Boy.png">
+					<Candidate type="Path">
+						<Value>Images\Boy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Centre.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Centre.png">
+					<Candidate type="Path">
+						<Value>Images\Centre.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Dépence.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Dépence.png">
+					<Candidate type="Path">
+						<Value>Images\Dépence.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Dépense.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Dépense.png">
+					<Candidate type="Path">
+						<Value>Images\Dépense.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Eléve.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Eléve.png">
+					<Candidate type="Path">
+						<Value>Images\Eléve.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="enseignant.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/enseignant.png">
+					<Candidate type="Path">
+						<Value>Images\enseignant.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Girl.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Girl.png">
+					<Candidate type="Path">
+						<Value>Images\Girl.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="group.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/group.png">
+					<Candidate type="Path">
+						<Value>Images\group.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logoSnap-01.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/logoSnap-01.png"/>
+				<NamedResource name="LogoSnap.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/LogoSnap.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Images\LogoSnap.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LogoSnapSansCouleur.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/LogoSnapSansCouleur.png">
+					<Candidate type="Path">
+						<Value>Images\LogoSnapSansCouleur.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MonthIcon.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/MonthIcon.png">
+					<Candidate type="Path">
+						<Value>Images\MonthIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Notifications.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Notifications.png">
+					<Candidate type="Path">
+						<Value>Images\Notifications.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Prof.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Prof.png">
+					<Candidate type="Path">
+						<Value>Images\Prof.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Reglage.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Reglage.png">
+					<Candidate type="Path">
+						<Value>Images\Reglage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="search.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/search.png">
+					<Candidate type="Path">
+						<Value>Images\search.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SessionIcon.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/SessionIcon.png">
+					<Candidate type="Path">
+						<Value>Images\SessionIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Snap.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Snap.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Images\Snap.scale-200.png</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>Images\Snap.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SnapCouleur.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/SnapCouleur.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Images\SnapCouleur.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SnapCouleurCarré.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/SnapCouleurCarré.png"/>
+				<NamedResource name="SnapCouleurGrandVignette.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/SnapCouleurGrandVignette.png">
+					<Candidate type="Path">
+						<Value>Images\SnapCouleurGrandVignette.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SnapCouleurIcon.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/SnapCouleurIcon.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-lightunplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Images\SnapCouleurIcon.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-lightunplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Images\SnapCouleurIcon.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-lightunplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Images\SnapCouleurIcon.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-unplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-lightunplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Images\SnapCouleurIcon.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Images\SnapCouleurIcon.altform-lightunplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Images\SnapCouleurIcon.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Images\SnapCouleurIcon.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SnapPackageLogo.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/SnapPackageLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Images\SnapPackageLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Student.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/Student.png">
+					<Candidate type="Path">
+						<Value>Images\Student.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StudentIcon.png" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Images/StudentIcon.png">
+					<Candidate type="Path">
+						<Value>Images\StudentIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.UI.Xaml">
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Microsoft.UI.Xaml/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Print">
+				<NamedResource name="ContinuationPage.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Print/ContinuationPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PreviewUnavailable.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Print/PreviewUnavailable.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="Styles.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Styles/Styles.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="Home.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Home.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PasswordView.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/PasswordView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PrintReçu.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/PrintReçu.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ReductionPage.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/ReductionPage.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ReçuView.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/ReçuView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Espace Eléve">
+					<NamedResource name="PaymentPage.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Eléve/PaymentPage.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StudentMonths.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Eléve/StudentMonths.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StudentProfs.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Eléve/StudentProfs.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StudentSearch.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Eléve/StudentSearch.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Espace Prof">
+					<NamedResource name="Archive.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Archive.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ChangeGroup.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/ChangeGroup.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="GroupDetail.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/GroupDetail.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MonthDetail.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/MonthDetail.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NotePage.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/NotePage.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ProfDetail.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/ProfDetail.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ProfSearch.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/ProfSearch.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SessionsPresence.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/SessionsPresence.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StudentDetail.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/StudentDetail.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StudentPresence.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/StudentPresence.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="Add">
+						<NamedResource name="AddCurrentStudent.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Add/AddCurrentStudent.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AddGroup.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Add/AddGroup.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AddNewStudent.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Add/AddNewStudent.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AddPeriod.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Add/AddPeriod.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AddProf.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Add/AddProf.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AddSession.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Add/AddSession.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Info">
+						<NamedResource name="ProfInfo.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Info/ProfInfo.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="StudentInfo.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Info/StudentInfo.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Update">
+						<NamedResource name="UpdateMonth.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Update/UpdateMonth.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="UpdateProf.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Update/UpdateProf.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="UpdateSeance.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Update/UpdateSeance.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="UpdateStudent.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace Prof/Update/UpdateStudent.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Espace SNAP">
+					<NamedResource name="AddEmployer.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace SNAP/AddEmployer.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Detail.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace SNAP/Detail.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Expenses.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace SNAP/Expenses.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Inscription.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace SNAP/Inscription.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SNAPmenu.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Espace SNAP/SNAPmenu.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="info">
+					<NamedResource name="InfoView.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/info/InfoView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Notifications">
+					<NamedResource name="NotificationView.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Notifications/NotificationView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Reglage">
+					<NamedResource name="ReglageView.xbf" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/Views/Reglage/ReglageView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://Microsoft.SDKSamples.PrintSample.CS/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

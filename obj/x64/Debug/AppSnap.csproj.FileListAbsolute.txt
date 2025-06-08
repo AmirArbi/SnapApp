@@ -1,0 +1,435 @@
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\App.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\MainPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Styles\Styles.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Print\ContinuationPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Eléve\PaymentPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Eléve\StudentMonths.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Eléve\StudentProfs.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Eléve\StudentSearch.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Add\AddGroup.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Add\AddNewStudent.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Add\AddPeriod.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Add\AddProf.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Add\AddSession.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Archive.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\ChangeGroup.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Info\StudentInfo.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\NotePage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\SessionsPresence.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\StudentPresence.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\GroupDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\MonthDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\ProfDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\ProfSearch.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\StudentDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Info\ProfInfo.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Update\UpdateMonth.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Update\UpdateProf.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Update\UpdateSeance.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace Prof\Update\UpdateStudent.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace SNAP\AddEmployer.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace SNAP\Detail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace SNAP\Expenses.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace SNAP\Inscription.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Espace SNAP\SNAPmenu.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Home.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\info\InfoView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Notifications\NotificationView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\PasswordView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\PrintReçu.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\ReductionPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\Reglage\ReglageView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Views\ReçuView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Print\PreviewUnavailable.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\PrintSample.xr.xml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\PrintSample.exe
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\PrintSample.pdb
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\resources.pri
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppxManifest.xml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Core\AppxManifest.xml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Core\PrintSample.exe
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppSnap.build.appxrecipe
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Newtonsoft.Json.dll
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\System.Runtime.dll
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\AppSnap.csprojAssemblyReference.cache
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.g.i.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Styles\Styles.xaml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Styles\Styles.xbf
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\XamlSaveStateFile.xml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\AppSnap.csproj.CoreCompileInputs.cache
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\AppSnap.csproj.CopyComplete
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PrintSample.exe
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PrintSample.pdb
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\ResourceHandlingTask.state
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\priconfig.xml
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\priconfig.xml.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\unfiltered.layout.resfiles
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\filtered.layout.resfiles
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\excluded.layout.resfiles
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\resources.resfiles
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\resources.resfiles.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\pri.resfiles
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\pri.resfiles.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\qualifiers.txt
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\qualifiers.txt.intermediate
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\ProjectArchitectures.txt
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885274160000000.json
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\AppSnap.csprojAssemblyReference.cache
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.g.i.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\XamlTypeInfo.g.cs
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Styles\Styles.xaml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\ContinuationPage.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\PaymentPage.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentMonths.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentProfs.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Eléve\StudentSearch.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddCurrentStudent.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddGroup.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddNewStudent.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddPeriod.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddProf.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Add\AddSession.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Archive.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ChangeGroup.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\StudentInfo.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\NotePage.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\SessionsPresence.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentPresence.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\GroupDetail.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\MonthDetail.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfDetail.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\ProfSearch.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\StudentDetail.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Info\ProfInfo.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateMonth.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateProf.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateSeance.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace Prof\Update\UpdateStudent.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\AddEmployer.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Detail.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Expenses.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\Inscription.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Espace SNAP\SNAPmenu.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Home.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\info\InfoView.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Notifications\NotificationView.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PasswordView.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\PrintReçu.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReductionPage.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\Reglage\ReglageView.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Views\ReçuView.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Print\PreviewUnavailable.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\App.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\MainPage.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Styles\Styles.xbf
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\XamlSaveStateFile.xml
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PrintSample.exe
+E:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PrintSample.pdb

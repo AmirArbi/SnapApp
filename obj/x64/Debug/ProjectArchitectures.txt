@@ -1,0 +1,1 @@
+D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\AppSnap.csproj;x64

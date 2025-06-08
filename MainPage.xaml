@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="SDKTemplate.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid HorizontalAlignment="Left" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            
+        </Grid.ColumnDefinitions>
+
+        <NavigationView x:Name="nvSample5" 
+                        IsTabStop="False" 
+                        SelectionChanged="nvSample5_SelectionChanged"
+                        PaneDisplayMode="LeftCompact"
+                        IsBackEnabled="True"
+                        IsBackButtonVisible="Collapsed"
+                        >
+            <NavigationView.MenuItems>
+                <NavigationViewItem Content="Ajouter une dépense" Tag="Expenses" >
+                    <NavigationViewItem.Icon>
+                        <BitmapIcon UriSource="Images/Dépence.png"/>
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItem Content="Espace Prof" Tag="EspaceProf" >
+                    <NavigationViewItem.Icon>
+                        <BitmapIcon UriSource="Images/Prof.png"/>
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItem Content="Espace Eléve" Tag="EspaceStudent" >
+                    <NavigationViewItem.Icon>
+                        <BitmapIcon UriSource="Images/Eléve.png"/>
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItem Content="Espace SNAP" Tag="EspaceSanp" >
+                    <NavigationViewItem.Icon>
+                        <BitmapIcon UriSource="Images/Snap.png"/>
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItemSeparator></NavigationViewItemSeparator>
+                <NavigationViewItem Content="Mettre en veille" Tag="MettreEnVielle" >
+                    <NavigationViewItem.Icon>
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE708;" FontSize="25" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItem Content="Info" Tag="Info" >
+                    <NavigationViewItem.Icon>
+                        <BitmapIcon UriSource="Images/about.png"/>
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+            </NavigationView.MenuItems>
+            <Frame x:Name="CurrentPage" Width="1400" HorizontalAlignment="Left" VerticalAlignment="Stretch"/>
+        </NavigationView>
+    </Grid>
+</Page>

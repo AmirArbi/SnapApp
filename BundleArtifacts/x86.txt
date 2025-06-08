@@ -1,0 +1,2 @@
+MainPackage=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x86\Debug\AppSnap_1.0.15.0_x86_Debug.msix
+SymbolPackage=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x86\Debug\Symbols\AppSnap_1.0.15.0_x86_Debug.appxsym

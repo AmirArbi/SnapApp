@@ -1,0 +1,97 @@
+﻿<Page
+    x:Class="SDKTemplate.Code.ReçuView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate.Code"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="PrintableArea">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel x:Name="SNAPlogo" Grid.Row="0">
+            <Image Source="/Images/LogoSnapSansCouleur.png" HorizontalAlignment="Left" />
+        </StackPanel>
+        <StackPanel x:Name="Header" Grid.Row="0" Grid.Column="1"  >
+            <RichTextBlock Foreground="Black" x:Name="SdkTitle" FontSize="15" FontFamily="Segoe UI" >
+                <Paragraph x:Name="Id">Reçu N°:</Paragraph>
+                <Paragraph x:Name="Date">Date:</Paragraph>
+                <Paragraph x:Name="FullName">Nom de l'élève:</Paragraph>
+                <Paragraph x:Name="Profname">Nom de prof:</Paragraph>
+            </RichTextBlock>
+        </StackPanel>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2" Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" ></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Border BorderBrush="Black" BorderThickness="2">
+                <RichTextBlock Foreground="Gray"  FontStretch="Condensed"  FontSize="25" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
+                IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Paragraph FontSize="20" >Matiére</Paragraph>
+                </RichTextBlock>
+            </Border>
+            <Border Grid.Column="1" BorderBrush="Black" BorderThickness="2">
+                <RichTextBlock Foreground="Gray"  FontSize="25" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
+                IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Paragraph FontSize="20">Session</Paragraph>
+                </RichTextBlock>
+            </Border>
+            <Border Grid.Column="2" BorderBrush="Black" BorderThickness="2">
+                <RichTextBlock Foreground="Gray"  FontSize="25" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
+                IsTextSelectionEnabled="True" TextAlignment="Left"  VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Paragraph FontSize="20" >Montant</Paragraph>
+                </RichTextBlock>
+            </Border>
+            <Border Grid.Row="1" BorderBrush="Black" BorderThickness="2">
+                <RichTextBlock Foreground="Black" FontSize="25" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
+                IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Paragraph FontSize="20"  x:Name="Subject"></Paragraph>
+                </RichTextBlock>
+            </Border>
+            <Border Grid.Row="1" Grid.Column="1" BorderBrush="Black" BorderThickness="2">
+                <RichTextBlock Foreground="Black" FontSize="25" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
+                IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Paragraph FontSize="20" x:Name="Session"></Paragraph>
+                </RichTextBlock>
+            </Border>
+            <Border Grid.Column="2" Grid.Row="1" BorderBrush="Black" BorderThickness="2">
+                <RichTextBlock Foreground="Black" FontSize="25" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
+                IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Paragraph FontSize="20" x:Name="Montant"></Paragraph>
+                </RichTextBlock>
+            </Border>
+        </Grid>
+        <RichTextBlockOverflow x:Name="FirstLinkedContainer" OverflowContentTarget="{Binding ElementName=ContinuationPageLinkedContainer}" Grid.Row="2" Grid.Column="0"/>
+        <RichTextBlockOverflow x:Name="ContinuationPageLinkedContainer" Grid.Row="3" Grid.ColumnSpan="2"/>
+        <StackPanel Grid.Row="2" Grid.Column="0"  >
+            <RichTextBlock Foreground="Black" FontSize="15" >
+                <Paragraph x:Name="PaymentMethode">Mode de paiement :</Paragraph>
+            </RichTextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1"  HorizontalAlignment="Center">
+            <RichTextBlock Foreground="Black" FontSize="15" >
+                <Paragraph >Signature SNAP</Paragraph>
+            </RichTextBlock>
+        </StackPanel>
+        <StackPanel x:Name="Footer" Grid.Row="4" Grid.ColumnSpan="2">
+            <TextBlock Foreground="Black" FontSize="10" TextAlignment="Left" FontFamily="Segoe UI">
+                GSM : 53 919 000 : Téléfax : 74 66 07 11 / Email : snap.stc@gmail.com 
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>

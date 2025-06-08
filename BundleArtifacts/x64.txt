@@ -1,0 +1,6 @@
+MainPackage=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppSnap_1.0.15.0_x64_Debug.msix
+SymbolPackage=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\Symbols\AppSnap_1.0.15.0_x64_Debug.appxsym
+ResourcePack=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppSnap_1.0.15.0_scale-100.msix
+ResourcePack=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppSnap_1.0.15.0_scale-125.msix
+ResourcePack=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppSnap_1.0.15.0_scale-150.msix
+ResourcePack=D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppSnap_1.0.15.0_scale-400.msix

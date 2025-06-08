@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugEngines>
+    </DebugEngines>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <UseSimulator>false</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <Source>
+    </Source>
+    <SmallTileSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-200.png</SmallTileSource>
+    <MediumTileSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-400.png</MediumTileSource>
+    <WideTileSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-200.png</WideTileSource>
+    <LargeTileSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-400.png</LargeTileSource>
+    <AppIconSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.png</AppIconSource>
+    <SplashScreenSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\logoSnap-01.scale-400.png</SplashScreenSource>
+    <PackageLogoSource>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurCarré.scale-400.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <RemoteDebugMachine>DESKTOP-VST4LSC:150</RemoteDebugMachine>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>false</UseEmulator>
+    <DebugEngines>{3B476D35-A401-11D2-AAD4-00C04F990171}</DebugEngines>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <AuthenticationMode>None</AuthenticationMode>
+    <BackgroundTaskDebugEngines />
+    <UseSimulator>false</UseSimulator>
+  </PropertyGroup>
+</Project>

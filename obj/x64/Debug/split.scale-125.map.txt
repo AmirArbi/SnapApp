@@ -1,0 +1,17 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-125"
+"ResourceDimensions"		"scale-125"
+
+[Files]
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\split.scale-125.pri"			"resources.pri"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Images\SnapPackageLogo.scale-125.png"			"Images\SnapPackageLogo.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Images\SnapCouleurIcon.scale-125.png"			"Images\SnapCouleurIcon.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Images\SnapCouleur.scale-125.png"			"Images\SnapCouleur.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Images\Snap.scale-125.png"			"Images\Snap.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Images\LogoSnap.scale-125.png"			"Images\LogoSnap.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Assets\WideTile.scale-125.png"			"Assets\WideTile.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Assets\SnapMoyen.scale-125.png"			"Assets\SnapMoyen.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Assets\SnapCouleur.scale-125.png"			"Assets\SnapCouleur.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Assets\Snap.scale-125.png"			"Assets\Snap.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Assets\SmallTile.scale-125.png"			"Assets\SmallTile.scale-125.png"
+"D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\PackageLayout\Assets\LogoSnap.scale-125.png"			"Assets\LogoSnap.scale-125.png"

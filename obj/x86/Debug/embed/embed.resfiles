@@ -1,0 +1,44 @@
+App.xbf
+MainPage.xbf
+Print\ContinuationPage.xbf
+Print\PreviewUnavailable.xbf
+Styles\Styles.xbf
+Views\Espace Eléve\PaymentPage.xbf
+Views\Espace Eléve\StudentMonths.xbf
+Views\Espace Eléve\StudentProfs.xbf
+Views\Espace Eléve\StudentSearch.xbf
+Views\Espace Prof\Add\AddCurrentStudent.xbf
+Views\Espace Prof\Add\AddGroup.xbf
+Views\Espace Prof\Add\AddNewStudent.xbf
+Views\Espace Prof\Add\AddPeriod.xbf
+Views\Espace Prof\Add\AddProf.xbf
+Views\Espace Prof\Add\AddSession.xbf
+Views\Espace Prof\Archive.xbf
+Views\Espace Prof\ChangeGroup.xbf
+Views\Espace Prof\GroupDetail.xbf
+Views\Espace Prof\Info\ProfInfo.xbf
+Views\Espace Prof\Info\StudentInfo.xbf
+Views\Espace Prof\MonthDetail.xbf
+Views\Espace Prof\NotePage.xbf
+Views\Espace Prof\ProfDetail.xbf
+Views\Espace Prof\ProfSearch.xbf
+Views\Espace Prof\SessionsPresence.xbf
+Views\Espace Prof\StudentDetail.xbf
+Views\Espace Prof\StudentPresence.xbf
+Views\Espace Prof\Update\UpdateMonth.xbf
+Views\Espace Prof\Update\UpdateProf.xbf
+Views\Espace Prof\Update\UpdateSeance.xbf
+Views\Espace Prof\Update\UpdateStudent.xbf
+Views\Espace SNAP\AddEmployer.xbf
+Views\Espace SNAP\Detail.xbf
+Views\Espace SNAP\Expenses.xbf
+Views\Espace SNAP\Inscription.xbf
+Views\Espace SNAP\SNAPmenu.xbf
+Views\Home.xbf
+Views\info\InfoView.xbf
+Views\Notifications\NotificationView.xbf
+Views\PasswordView.xbf
+Views\PrintReçu.xbf
+Views\ReçuView.xbf
+Views\ReductionPage.xbf
+Views\Reglage\ReglageView.xbf

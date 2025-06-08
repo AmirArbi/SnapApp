@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="SDKTemplate.Views.info.InfoView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate.Views.info"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock Text="© Created by Amir ELARBI ©" Style="{StaticResource CopyrightTextStyle}" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="5"></TextBlock>
+    </Grid>
+</Page>

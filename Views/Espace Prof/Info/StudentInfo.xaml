@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="SDKTemplate.Views.Espace_Prof.Info.StudentInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SDKTemplate.Views.Espace_Prof.Info"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,1,0,0" Padding="100,0,100,0" HorizontalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="PrintCanvas" Opacity="0"/>
+        <TextBlock x:Name="Name" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="450" Height="50" FontSize="20" />
+        <TextBlock HorizontalAlignment="Left" Text="Nom :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50" Height="79" Width="186"  Style="{StaticResource BodyTextBlockStyle}" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Text="Prénom :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50" Height="79" Width="212"  Style="{StaticResource BodyTextBlockStyle}" Grid.Row="2" />
+        <TextBlock x:Name="Surname" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="2" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="450" Height="50" FontSize="20" />
+        <TextBlock HorizontalAlignment="Left" Text="Email :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50" Height="79" Width="186"  Style="{StaticResource BodyTextBlockStyle}" Grid.Row="3"/>
+        <TextBlock x:Name="Email" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="3" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="450" Height="50" FontSize="20" />
+        <TextBlock x:Name="School" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="4" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="449" Height="50" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Text="Etablissement :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50" Height="79" Style="{StaticResource BodyTextBlockStyle}" Grid.Row="4"/>
+        <TextBlock x:Name="Number" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="5" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="449" Height="50" FontSize="20" />
+        <TextBlock HorizontalAlignment="Left" Text="téléphone :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50"   Style="{StaticResource BodyTextBlockStyle}" Grid.Row="5"/>
+        <TextBlock x:Name="Avrage" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="6" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="449" Height="50" FontSize="20" />
+        <TextBlock HorizontalAlignment="Left" Text="Moyenne :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50"   Style="{StaticResource BodyTextBlockStyle}" Grid.Row="6"/>
+        <TextBlock x:Name="Gender"  Grid.Column="1" HorizontalAlignment="Center" Grid.Row="7" VerticalAlignment="Center" Width="449" Height="50" FontSize="20"></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Text="sexe :" TextWrapping="Wrap" VerticalAlignment="Center" UseLayoutRounding="True" FontSize="50"   Style="{StaticResource BodyTextBlockStyle}" Grid.Row="7"/>
+        <Button x:Name="Continuer" Click="Continuer_Click" Margin="0,0,0,0" Grid.Row="8" VerticalAlignment="Center" FontSize="15" HorizontalAlignment="Center" Grid.ColumnSpan="2" Width="300" Height="45" Content="Continuer"/>
+
+    </Grid>
+</Page>

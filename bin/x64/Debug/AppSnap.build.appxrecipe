@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-RQP9RDO</Machine>
+    <WindowsUser>ASUS</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>227e9820-e6ed-4a14-b872-14583ab7a935</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Amir Elarbi</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\PrintSample.exe">
+      <PackagePath>entrypoint\PrintSample.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\cs\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\Samples\cliff.jpg">
+      <PackagePath>Assets\photo1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\Samples\grapes.jpg">
+      <PackagePath>Assets\photo2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\Samples\rainier.jpg">
+      <PackagePath>Assets\photo3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\Samples\sunset.jpg">
+      <PackagePath>Assets\photo4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\Samples\treetops.jpg">
+      <PackagePath>Assets\photo5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\Samples\valley.jpg">
+      <PackagePath>Assets\photo6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\shared\print_1.png">
+      <PackagePath>Assets\print_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\LogoSnap.scale-100.png">
+      <PackagePath>Assets\LogoSnap.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\LogoSnap.scale-125.png">
+      <PackagePath>Assets\LogoSnap.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\LogoSnap.scale-150.png">
+      <PackagePath>Assets\LogoSnap.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\LogoSnap.scale-200.png">
+      <PackagePath>Assets\LogoSnap.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\LogoSnap.scale-400.png">
+      <PackagePath>Assets\LogoSnap.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SmallTile-sdk.scale-200.png">
+      <PackagePath>Assets\SmallTile-sdk.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\Snap.scale-100.png">
+      <PackagePath>Assets\Snap.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\Snap.scale-125.png">
+      <PackagePath>Assets\Snap.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\Snap.scale-150.png">
+      <PackagePath>Assets\Snap.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\Snap.scale-200.png">
+      <PackagePath>Assets\Snap.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\Snap.scale-400.png">
+      <PackagePath>Assets\Snap.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\SnapCouleur.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\SnapCouleur.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\SnapCouleur.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\SnapCouleur.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\SnapCouleur.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\SnapCouleur.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-unplated_targetsize-24.png">
+      <PackagePath>Assets\SnapCouleur.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\SnapCouleur.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\SnapCouleur.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\SnapCouleur.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.scale-100.png">
+      <PackagePath>Assets\SnapCouleur.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.scale-125.png">
+      <PackagePath>Assets\SnapCouleur.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.scale-150.png">
+      <PackagePath>Assets\SnapCouleur.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.scale-200.png">
+      <PackagePath>Assets\SnapCouleur.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.scale-400.png">
+      <PackagePath>Assets\SnapCouleur.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.targetsize-16.png">
+      <PackagePath>Assets\SnapCouleur.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.targetsize-24.png">
+      <PackagePath>Assets\SnapCouleur.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.targetsize-256.png">
+      <PackagePath>Assets\SnapCouleur.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.targetsize-32.png">
+      <PackagePath>Assets\SnapCouleur.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleur.targetsize-48.png">
+      <PackagePath>Assets\SnapCouleur.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapCouleurGrandVignette.scale-100.png">
+      <PackagePath>Assets\SnapCouleurGrandVignette.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapMoyen.scale-100.png">
+      <PackagePath>Assets\SnapMoyen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapMoyen.scale-125.png">
+      <PackagePath>Assets\SnapMoyen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapMoyen.scale-150.png">
+      <PackagePath>Assets\SnapMoyen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapMoyen.scale-200.png">
+      <PackagePath>Assets\SnapMoyen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SnapMoyen.scale-400.png">
+      <PackagePath>Assets\SnapMoyen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\Splash-sdk.scale-200.png">
+      <PackagePath>Assets\Splash-sdk.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\SquareTile-sdk.scale-200.png">
+      <PackagePath>Assets\SquareTile-sdk.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\StoreLogo-sdk.scale-100.png">
+      <PackagePath>Assets\StoreLogo-sdk.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\WideTile.scale-125.png">
+      <PackagePath>Assets\WideTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\WideTile.scale-150.png">
+      <PackagePath>Assets\WideTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\WideTile.scale-200.png">
+      <PackagePath>Assets\WideTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Assets\WideTile.scale-400.png">
+      <PackagePath>Assets\WideTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\squaretile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\about.png">
+      <PackagePath>Images\about.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\back-to-school-512.png">
+      <PackagePath>Images\back-to-school-512.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Centre.png">
+      <PackagePath>Images\Centre.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Dépence.png">
+      <PackagePath>Images\Dépence.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Eléve.png">
+      <PackagePath>Images\Eléve.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\enseignant.png">
+      <PackagePath>Images\enseignant.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Dépense.png">
+      <PackagePath>Images\Dépense.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Girl.png">
+      <PackagePath>Images\Girl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Boy.png">
+      <PackagePath>Images\Boy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\logoSnap-01.scale-400.png">
+      <PackagePath>Images\logoSnap-01.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\LogoSnap.scale-100.png">
+      <PackagePath>Images\LogoSnap.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\LogoSnap.scale-125.png">
+      <PackagePath>Images\LogoSnap.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\LogoSnap.scale-150.png">
+      <PackagePath>Images\LogoSnap.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\LogoSnap.scale-200.png">
+      <PackagePath>Images\LogoSnap.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\LogoSnap.scale-400.png">
+      <PackagePath>Images\LogoSnap.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\LogoSnapSansCouleur.png">
+      <PackagePath>Images\LogoSnapSansCouleur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.png">
+      <PackagePath>Images\Snap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Prof.png">
+      <PackagePath>Images\Prof.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.scale-100.png">
+      <PackagePath>Images\Snap.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.scale-125.png">
+      <PackagePath>Images\Snap.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.scale-150.png">
+      <PackagePath>Images\Snap.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.scale-200.png">
+      <PackagePath>Images\Snap.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Snap.scale-400.png">
+      <PackagePath>Images\Snap.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-100.png">
+      <PackagePath>Images\SnapCouleur.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-125.png">
+      <PackagePath>Images\SnapCouleur.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-150.png">
+      <PackagePath>Images\SnapCouleur.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-200.png">
+      <PackagePath>Images\SnapCouleur.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleur.scale-400.png">
+      <PackagePath>Images\SnapCouleur.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurGrandVignette.png">
+      <PackagePath>Images\SnapCouleurGrandVignette.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurCarré.scale-400.png">
+      <PackagePath>Images\SnapCouleurCarré.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-unplated_targetsize-24.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\SnapCouleurIcon.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.scale-100.png">
+      <PackagePath>Images\SnapCouleurIcon.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.scale-125.png">
+      <PackagePath>Images\SnapCouleurIcon.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.scale-150.png">
+      <PackagePath>Images\SnapCouleurIcon.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.scale-200.png">
+      <PackagePath>Images\SnapCouleurIcon.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.scale-400.png">
+      <PackagePath>Images\SnapCouleurIcon.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.targetsize-16.png">
+      <PackagePath>Images\SnapCouleurIcon.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.targetsize-24.png">
+      <PackagePath>Images\SnapCouleurIcon.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.targetsize-256.png">
+      <PackagePath>Images\SnapCouleurIcon.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.targetsize-32.png">
+      <PackagePath>Images\SnapCouleurIcon.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapCouleurIcon.targetsize-48.png">
+      <PackagePath>Images\SnapCouleurIcon.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapPackageLogo.scale-100.png">
+      <PackagePath>Images\SnapPackageLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapPackageLogo.scale-125.png">
+      <PackagePath>Images\SnapPackageLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapPackageLogo.scale-150.png">
+      <PackagePath>Images\SnapPackageLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapPackageLogo.scale-200.png">
+      <PackagePath>Images\SnapPackageLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SnapPackageLogo.scale-400.png">
+      <PackagePath>Images\SnapPackageLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\StudentIcon.png">
+      <PackagePath>Images\StudentIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\group.png">
+      <PackagePath>Images\group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\MonthIcon.png">
+      <PackagePath>Images\MonthIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Notifications.png">
+      <PackagePath>Images\Notifications.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Reglage.png">
+      <PackagePath>Images\Reglage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\search.png">
+      <PackagePath>Images\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\SessionIcon.png">
+      <PackagePath>Images\SessionIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Images\Student.png">
+      <PackagePath>Images\Student.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\smalltile-sdk.scale-200.png">
+      <PackagePath>smalltile-sdk.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\splash-sdk.scale-200.png">
+      <PackagePath>splash-sdk.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\squaretile-sdk.scale-200.png">
+      <PackagePath>squaretile-sdk.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\shared\wideMargins.svg">
+      <PackagePath>Assets\wideMargins.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\shared\moderateMargins.svg">
+      <PackagePath>Assets\moderateMargins.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\shared\narrowMargins.svg">
+      <PackagePath>Assets\narrowMargins.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Black.ttf">
+      <PackagePath>Fonts\Montserrat-Black.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-BlackItalic.ttf">
+      <PackagePath>Fonts\Montserrat-BlackItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Bold.ttf">
+      <PackagePath>Fonts\Montserrat-Bold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-BoldItalic.ttf">
+      <PackagePath>Fonts\Montserrat-BoldItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-ExtraBold.ttf">
+      <PackagePath>Fonts\Montserrat-ExtraBold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-ExtraBoldItalic.ttf">
+      <PackagePath>Fonts\Montserrat-ExtraBoldItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-ExtraLight.ttf">
+      <PackagePath>Fonts\Montserrat-ExtraLight.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-ExtraLightItalic.ttf">
+      <PackagePath>Fonts\Montserrat-ExtraLightItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Italic.ttf">
+      <PackagePath>Fonts\Montserrat-Italic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Light.ttf">
+      <PackagePath>Fonts\Montserrat-Light.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-LightItalic.ttf">
+      <PackagePath>Fonts\Montserrat-LightItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Medium.ttf">
+      <PackagePath>Fonts\Montserrat-Medium.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-MediumItalic.ttf">
+      <PackagePath>Fonts\Montserrat-MediumItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Regular.ttf">
+      <PackagePath>Fonts\Montserrat-Regular.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-SemiBold.ttf">
+      <PackagePath>Fonts\Montserrat-SemiBold.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-SemiBoldItalic.ttf">
+      <PackagePath>Fonts\Montserrat-SemiBoldItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-Thin.ttf">
+      <PackagePath>Fonts\Montserrat-Thin.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\Fonts\Montserrat-ThinItalic.ttf">
+      <PackagePath>Fonts\Montserrat-ThinItalic.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\PrintSample.xr.xml">
+      <PackagePath>PrintSample.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\amir\Centre Snap App\Windows-universal-samples-master\Samples\Printing\cs\bin\x64\Debug\Core\PrintSample.exe">
+      <PackagePath>PrintSample.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\ASUS\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\ASUS\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
