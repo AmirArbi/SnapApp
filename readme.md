@@ -8,7 +8,7 @@ Elle permet aux membres de l'administration (directeurs, enseignants, secrétair
 
 - Enregistrer de nouveaux étudiants.
 - Suivre la présence des élèves pendant les sessions.
-- Enregistrer les reçus de paiement.
+- Enregistrer et imprimer les reçus de paiement.
 - Calculer la valeur nette (bilan).
 - Visualiser les revenus et dépenses (mensuels / journaliers) sous forme de **graphiques**.
 - Travailler en synergie grâce à une **base de données centralisée** (Laravel) qui relie les différents utilisateurs selon leur rôle.
@@ -34,7 +34,7 @@ It helps administrative staff (directors, teachers, secretaries) to:
 
 - Register new students.
 - Monitor student attendance during sessions.
-- Save payment receipts.
+- Save and print payment receipts.
 - Calculate net worth (balance sheet).
 - Visualize **monthly and daily** income and expenses using **graphs**.
 - Collaborate effectively through a **centralized Laravel database** that links users based on their roles.
